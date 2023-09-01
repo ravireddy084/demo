@@ -16,5 +16,6 @@ codes pull to local
 
 pull not working 
 testing fetch
-
 hi gud morning 
+
+now i have cloned the file from github to local repo
