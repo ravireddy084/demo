@@ -19,3 +19,5 @@ testing fetch
 hi gud morning 
 
 now i have cloned the file from github to local repo
+
+checking pull
