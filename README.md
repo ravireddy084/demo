@@ -21,3 +21,5 @@ hi gud morning
 now i have cloned the file from github to local repo
 
 checking pull
+
+next i am going to creat pull request to push the branch to master baranch 
